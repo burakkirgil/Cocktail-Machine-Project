@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171166205472",
+    "project_id": "leblon-cocktail-mobile-app",
+    "storage_bucket": "leblon-cocktail-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171166205472:android:31b72de24a5d5cb441de45",
+        "android_client_info": {
+          "package_name": "com.burakkirgil.leblonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5S20KU18vncp5KRbpM-YT_FxZX45M90U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171166205472:android:1400d36253e39f0941de45",
+        "android_client_info": {
+          "package_name": "com.burakkirgil.lebloncocktailmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5S20KU18vncp5KRbpM-YT_FxZX45M90U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
